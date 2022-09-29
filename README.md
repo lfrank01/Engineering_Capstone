@@ -1,4 +1,4 @@
-## Engineering Capstone Bow Adapter and Prosthetic Hand 
+# Engineering Capstone Bow Adapter and Prosthetic Hand 
 ### Angus and Luke Frank
 This README is the week-by-week documentation of our senior-year capstone project. Our goal is to create a violin bow adapter and prosthetic hand for two customers within in the CHS community. 
  
