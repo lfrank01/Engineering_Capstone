@@ -45,7 +45,8 @@ This README is the week-by-week documentation of our senior-year capstone projec
 ### What decisions were made?
 * To build off and improve upon Elisabeth’s previous work. We hope to use her thermoplastics from the previous year
 * That we would like to collaborate with either Dr. King (an expert in prosthetics) and other possible PTs and UVA connections
-* What new resources did you find?
+
+### What new resources did you find?
 * That Elisabeth has a model of her second-to-final design and resources for the bow adapter that we can use
 
 ### What new issues were discovered?
@@ -60,4 +61,40 @@ This README is the week-by-week documentation of our senior-year capstone projec
 
 ### What is your plan for next week?
 * For next week we plan on getting the materials from Elisabeth Scharf and getting in touch with a physical therapist that Elisabeth Scharf worked with. We would like to start making actual, physical progress on the development of our projects. 
+
+
+# Week of October 3rd:
+
+### What did you work on?
+* Practing the mechanics of bow movement with the violin
+* Testing the properties of the thermoplastics graciously given to us by Elisabeth Scharf
+* Visiting Ramisi's previous bow adapter design and attempting to reverse engineer and identify design flaws
+
+### What decisions were made?
+* We decided that using a hate plate to create a bath for the thermoplastics to heat up in was the best course of action for maximum material consitency and adaptability
+* We had already been pretty sure that we wanted to use thermoplastics, but after working with some material, we confirmed that it was the best course of action
+
+### What new resources did you find?
+* Elle Polifka as a great reasource for learning how the mechanics of violin work. Elle taught Luke the basic form for violin 
+* [E-NABLE Prosthetics Design](https://enablingthefuture.org) as a great reasource for model prosthetic hands. They have a DIY prosthetic creation page that looks very helpful
+
+### What new issues were discovered?
+* We do not know yet the specific material of thermoplastic that Elisabeth gave us. Thus, we had to experiment with a heat gun to try find the right temperature for molding at; we found a rough estimate (~460 degrees Fahrenheit)
+* Using a heat gun isn't very good at applying heat uniformly. We discovered that we will likely need a heat plate and tray of water. The Sigma Lab has a heat plate, and we're looking into if the chemistry department has trays we can use
+* Applying the thermoplastic to skin when molding. If done correctly, we do not believe it will burn, but we will obviously have to experiment with the best way of applying the thermoplastics 
+
+### What went well?
+* We succesfully managed to mold thermoplastic material using the heat gun and mold it
+* Luke learned the basics of violin and was able to explain it
+* We were productive and learned a lot more about how the previous design worked by reverse-engineering
+
+### What was difficult?
+* Having to ask Elisabeth Scharf about certain things like what material of thermoplastic we have and how she applied heat to the thermoplastics (like a furnance or heat gun) requires a bit of patience because of the space-time gap between us. We sometimes have to divert our focus for a bit while waiting on a key bit of insight
+
+### What is your plan for next week?
+* We hope to take Ramisi's hand measurements
+* Using the heat plate and tray of water (first must be found) to apply heat uniformly
+* Improving our thermoplastic molding skills and learning how to cut the thermoplastic for a cleaner design (the final product should look aesthetic
+ 
+
  
