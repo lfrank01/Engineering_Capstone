@@ -70,8 +70,9 @@ This README is the week-by-week documentation of our senior-year capstone projec
 * Testing the properties of the thermoplastics graciously given to us by Elisabeth Scharf
 * Visiting Ramisi's previous bow adapter design and attempting to reverse engineer and identify design flaws
 
-<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" width="300" height="500" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" width="300" height="500" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" width="300" height="500" /><img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" width="300" height="500" />
 
+https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflection.jpg
 ### What decisions were made?
 * We decided that using a hate plate to create a bath for the thermoplastics to heat up in was the best course of action for maximum material consitency and adaptability
 * We had already been pretty sure that we wanted to use thermoplastics, but after working with some material, we confirmed that it was the best course of action
