@@ -70,6 +70,8 @@ This README is the week-by-week documentation of our senior-year capstone projec
 * Testing the properties of the thermoplastics graciously given to us by Elisabeth Scharf
 * Visiting Ramisi's previous bow adapter design and attempting to reverse engineer and identify design flaws
 
+![Angus Heat Gun](/media/https://github.com/lfrank01/Engineering_Capstone/blob/main/README.md)
+
 ### What decisions were made?
 * We decided that using a hate plate to create a bath for the thermoplastics to heat up in was the best course of action for maximum material consitency and adaptability
 * We had already been pretty sure that we wanted to use thermoplastics, but after working with some material, we confirmed that it was the best course of action
@@ -95,6 +97,8 @@ This README is the week-by-week documentation of our senior-year capstone projec
 * We hope to take Ramisi's hand measurements
 * Using the heat plate and tray of water (first must be found) to apply heat uniformly
 * Improving our thermoplastic molding skills and learning how to cut the thermoplastic for a cleaner design (the final product should look aesthetic
+
+
  
 
  
