@@ -116,6 +116,8 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 ### What new resources did you find?
 * A cookie tray (Angus's), a heat plate (Sigma Lab's), and a heat measuring device (thermometer from the Biology clasroom)
 
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Plate.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Plate.jpg" width="300" height="400" />
+
 ### What new issues were discovered?
 * A very key problem with using a heat plate with water is that it takes around 10-20 minutes to heat up to a close to insufficient temperature. We got the heat plate to heat the water up to ~60 degrees F, but this temperature was not nearly enough to harness the thermoplastics's molding capabilites.
 * Molding isn't easy. There's a short time until cooling, which means that the molding process has to happen quickly.
@@ -123,6 +125,10 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 
 ### What went well?
 * We made use of the time we had and got to try out the heat plate method, determining that water was likely our best bet for making the thermoplastic moldable, although probably not with a heatplat
+
+
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Adapter_Notes_1.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Adapter_Notes_1.jpg" width="300" height="500" /><img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Adapter_Note_2.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Adapter_Note_2.jpg" width="300" height="500" />
+
 
 ### What was difficult?
 * The heat plate took a long time to reach 60 degrees F (which we discovered was not enough energy), meaning we had less time to mold and had to draw designs and brainstorm while waiting around
