@@ -100,6 +100,37 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 * Improving our thermoplastic molding skills and learning how to cut the thermoplastic for a cleaner design (the final product should look aesthetic
 
 
- 
+# Week of October 10th:
+
+### What did you work on?
+* Exploring alternatives for heating up the thermoplastics. The previous week, we used a heat gun. We realized that using water with a cookie tray and heat plate would diffuse heat more evenly across the thermoplastic
+* Understanding how the bow mold was attatched to the hand attatchement
+* Gaining experience with thermoplastic molding through trial and error. Also learning how to handle the hot thermoplastics safely.
+* Drawing models of the hand prosthesis design and also creating a labeled diagram of a violin to unde
+
+### What decisions were made?
+* To experiment with alternate heating methods--using a heat plate and water instead of the heat gun (which doesn't spread energy evenly)
+* To try make a mold of Luke's hand for experience
+* To use our own cookie tray (Angus's) since we couldn't get one from the cafeteria 
+
+### What new resources did you find?
+* A cookie tray (Angus's), a heat plate (Sigma Lab's), and a heat measuring device (thermometer from the Biology clasroom)
+
+### What new issues were discovered?
+* A very key problem with using a heat plate with water is that it takes around 10-20 minutes to heat up to a close to insufficient temperature. We got the heat plate to heat the water up to ~60 degrees F, but this temperature was not nearly enough to harness the thermoplastics's molding capabilites.
+* Molding isn't easy. There's a short time until cooling, which means that the molding process has to happen quickly.
+* There are pressure points that we have to be mindful of like ulnar styloid on the wrist. The design has to be shaped or sometimes cut to avoid rubbing on these possible pressure points like the ulnar styloid, which requires a good molding job (which we will get better at with experience)
+
+### What went well?
+* We made use of the time we had and got to try out the heat plate method, determining that water was likely our best bet for making the thermoplastic moldable, although probably not with a heatplat
+
+### What was difficult?
+* The heat plate took a long time to reach 60 degrees F (which we discovered was not enough energy), meaning we had less time to mold and had to draw designs and brainstorm while waiting around
+* Luke was away at Boston for Friday, and on Thursday, Angus wasn't there because it was a weirdly-scheduled PSAT day. Thus, we had less time to work
+* The heat plate was much smaller than the cookie tray, so it was easy for the cookie tray to tip over if given a small touch by accident, and the heat had to take more time to diffuse from the center of the cookie tray to the outer parts
+
+### What is your plan for next week?
+* Elisabeth Scharf will be in town next week, and we're planning to work with her for a class period so that she can teach us the skills she learned from last year
+* We plan to continue practicing our molding and talk to Ramisi about the pressure points she had on the previous mold she used so that we can better our designing
 
  
