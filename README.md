@@ -105,8 +105,8 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 ### What did you work on?
 * Exploring alternatives for heating up the thermoplastics. The previous week, we used a heat gun. We realized that using water with a cookie tray and heat plate would diffuse heat more evenly across the thermoplastic
 * Understanding how the bow mold was attatched to the hand attatchement
-* Gaining experience with thermoplastic molding through trial and error. Also learning how to handle the hot thermoplastics safely.
-* Drawing models of the hand prosthesis design and also creating a labeled diagram of a violin to unde
+* Gaining experience with thermoplastic molding through trial and error. Also learning how to handle the hot thermoplastics safely
+* Drawing models of the hand prosthesis design and also creating a labeled diagram of a violin to understand its mechanics
 
 ### What decisions were made?
 * To experiment with alternate heating methods--using a heat plate and water instead of the heat gun (which doesn't spread energy evenly)
@@ -139,4 +139,43 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 * Elisabeth Scharf will be in town next week, and we're planning to work with her for a class period so that she can teach us the skills she learned from last year
 * We plan to continue practicing our molding and talk to Ramisi about the pressure points she had on the previous mold she used so that we can better our designing
 
+
+# Week of October 17th:
+
+### What did you work on?
+* We continued improving our thermoplastic molding abilities 
+* We debated methods of attatching the prosthesis. Our ideas were as follows:
+ * Bending the thermoplastic around the hand (closing the mold) for more of a friction fit
+ * Using a bandage-like material to connect the two sides (closing a gap between the two ends)
+ * Using velcrow straps on each side to connect the two sides
+* We thought about how to attach the violin bow to the prosthesis (friction fit or an adhesive idea)
+
+### What decisions were made?
+* We asked Elisabeth Scharf, who was in town on college break, if she could teach us her skills on Monday
+* We decided to use a tea kettle instead of a heat plate to get the water hot enough to mold the thermoplastic (before it wasn't hot enough)
+* We used Elle Polifka for making a hand mold. Ramisi was not there on Monday and thus we had to improvise
+
+### What new resources did you find?
+* The biggest discovery was that a tea kettle works much better than a heat plate
+* The kettle reaches hotter temperatures (we needed around boiling point as opposed to 60 degrees F) and takes less time to heat up
+* Valcro straps were not neccesarily new reasources, but we realized this week that they'd be a good fit for our design
+
+### What new issues were discovered?
+* The water that the thermoplastic is prepared in has to be extremely hot, at around boiling point (212 F). Otherwise, the thermoplastic will not truly be moldable. We were amazed at how maleable the thermoplastic was when it was heated with boiling water. However, the hot temperature needed for the water means that we have limited time to do molding since the water cools down. We had to reprepare the water several times to get it back to a hot enough temperature
+* The thermoplastic molding, once hardened, can have many points of pressure when it pushes against the thumb, for example, or wrist. The molding has to be done skillfully to prevent sharp corners. Sand-paper may be needed
+
+### What went well?
+* We succesfully made a rough mold for Elle Pollifka's hand that also had a space where the violin bow could be anchored. However, we forgot to take into account how the bow string hair would press against the thermoplastic and thus have to rethink our initial mold
+
+### What was difficult?
+* Doing the molding in enough time. The water for the thermoplastic was usually not hot enough
+* Submerging an already formed mold for redesign. We put the hot water in the cookie tray for heating the flat thermoplastic material, but it's harder to submerge a more complex shape in a flat container. We may need to use a beaker
+* There were times when we had to cut the thermoplastic to save material or adapt the design, but the hardened thermoplastic material is quite hard to cut
+
+### What is your plan for next week?
+* Create a working model for Ramisi to try out, which would mean that we'd ask her if we could try doing a mold of her hand
+* Identifying mold pressure points and fixing these areas with either sand paper or making smooth cuts 
+* Communicating with Alex about our plans for the prosthetic hand. Working on one project at a time will be the best way to have succesful results, but this means that Alex's project will come later in the year. We want to communicate this to her to be clear of our schedule and constraints
+
+ 
  
