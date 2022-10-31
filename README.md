@@ -177,5 +177,32 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 * Identifying mold pressure points and fixing these areas with either sand paper or making smooth cuts 
 * Communicating with Alex about our plans for the prosthetic hand. Working on one project at a time will be the best way to have succesful results, but this means that Alex's project will come later in the year. We want to communicate this to her to be clear of our schedule and constraints
 
+#Week of October 24th:
+
+### What did you work on?
+* This week we were able to have Elisabeth Scharf come in and show us the best ways to mold thermoplastics. 
+* We created a mold with a friends hand. 
+* We created a extremly rough mold for Ramisi.
+* We emailed Alex about our plans and schedule but haven't gotten a response back yet.
+
+### What decisions were made?
+* We've decided we need a much deeper pot or pan to heat up since the thermoplastic needs to be fully submerged in the water. 
+* We should be getting closer to a final mold in the next few weeks or month. 
+
+### What new resources did you find?
+* A deeper pot or pan is most useful to be able to fully submerge the thermoplastic.
+* We used Mr.Millers extremly sharp scissors to cut the thermplastics, which is most likley the best thing we have to cut the thermoplastic.
+
+### What new issues were discovered? 
+* We don't have the same lunch as Ramisi so on non-block days we have very little time to do any testing. 
+
+### What went well?
+* We were able to get are first model for Ramisi, wh8ich is super exciting and a great strive towards the final. 
+
+### What was difficult?
+* We only had two days for the week but we were extremly productive and makes us think about how much more we could've gotten done if we had a full week to work. 
+### What is your plan for next week?
+* Create a much better model for Ramisi, with much more definition then the last.
+
  
  
