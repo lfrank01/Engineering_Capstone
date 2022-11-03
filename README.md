@@ -177,7 +177,7 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 * Identifying mold pressure points and fixing these areas with either sand paper or making smooth cuts 
 * Communicating with Alex about our plans for the prosthetic hand. Working on one project at a time will be the best way to have succesful results, but this means that Alex's project will come later in the year. We want to communicate this to her to be clear of our schedule and constraints
 
-#Week of October 24th:
+# Week of October 24th:
 
 ### What did you work on?
 * This week we were able to have Elisabeth Scharf come in and show us the best ways to mold thermoplastics. 
