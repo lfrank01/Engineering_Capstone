@@ -201,8 +201,17 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 
 ### What was difficult?
 * We only had two days for the week but we were extremly productive and makes us think about how much more we could've gotten done if we had a full week to work. 
+
 ### What is your plan for next week?
 * Create a much better model for Ramisi, with much more definition then the last.
 
+
+# Week of October 31st:
  
- 
+ ### What did you work on?
+ ### What decisions were made?
+ ### What new resources did you find?
+### What new resources did you find?
+### What went well?
+### What was difficult?
+### What is your plan for next week?
