@@ -205,13 +205,20 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 ### What is your plan for next week?
 * Create a much better model for Ramisi, with much more definition then the last.
 
-
 # Week of October 31st:
  
- ### What did you work on?
- ### What decisions were made?
- ### What new resources did you find?
-### What new resources did you find?
+### What did you work on? 
+* This week we worked on molding for the violin bow adapter.
+
+### What decisions were made?
+* We decided the we'll make a temporary bow adapter for Ramisi's so she's able to play by next week. 
+* We'll try to have the final mold with in a month. 
+
 ### What went well?
+* We made great strides to having something for Ramisi's to play with and learned a lot about what works for her and what hurts. 
+* Able to mold the model around Ramisi's bow. 
+
 ### What was difficult?
+* While molding it takes a while between each molding so we only have around two or three times a class to remold.  
+
 ### What is your plan for next week?
