@@ -222,3 +222,6 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 * While molding it takes a while between each molding so we only have around two or three times a class to remold.  
 
 ### What is your plan for next week?
+
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct31Mold.jpg" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct31Mold.jpg" width="300" height="400" />
