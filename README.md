@@ -177,6 +177,10 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 * Identifying mold pressure points and fixing these areas with either sand paper or making smooth cuts 
 * Communicating with Alex about our plans for the prosthetic hand. Working on one project at a time will be the best way to have succesful results, but this means that Alex's project will come later in the year. We want to communicate this to her to be clear of our schedule and constraints
 
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandMold1.jpg"data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandMold1.jpg" width="300" height="500" /><img 
+
+
 # Week of October 24th:
 
 ### What did you work on?
