@@ -226,6 +226,40 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandM
 * While molding it takes a while between each molding so we only have around two or three times a class to remold.  
 
 ### What is your plan for next week?
-
+* Do more molding with Ramisi
+* Contact UVA Hand Specialist Ms. Hite for advice on how to improve our molding
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct31Mold.jpg" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct31Mold.jpg" width="300" height="400" />
+
+
+# Week of November 7th:
+### What did you work on?
+* We reached out to Dr. Stacy Hite from UVA via email, asking if we could talk and have some of her advice on how to have a clean finish
+* We met with Ramisi and Elle to talk about the current mold and how to improve it. It's currently too tight
+
+### The main endeavors of this week were as follows:
+* Emailing Ms. Hite and checking with Ramisi that she was O.K. with us reaching out to her
+* Meeting with Elle and Ramisi to plan for the next week
+
+### What decisions were made?
+* To reach out to Ms. Hite
+* That we should bring a cup next week to make molding in 3D easier
+
+### What new resources did you find?
+* No new reasources neccessarily, but we did decide that we wanted to talk to Ms. Hite
+* Another reasource that we've already been aware of, but Adrian Anantawan's violin adapter might be a design worth considering
+
+### What new issues were discovered?
+* We already new from the previous week that Ramisi's current mold was too tight, but we also learned that we need to change the orientation of the mold to enable more horizontal movement
+
+### What went well?
+* We succesfully emailed Ms. Hite and organized times to meet with Ramisi
+
+### What was difficult?
+* We didn't do any molding this week and were in general not extremely productive (emailing Ms. Hite was the main point of action)
+* There were only 3 days of school and two days of engineering class, so there was not a lot of time to work with
+
+### What is your plan for next week?
+* Communicating with Ms. Hite about how to make our final design
+* Making a comfortable mold for Ramisi
+* Experimenting with the idea of a Anantawan-inspired design
