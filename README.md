@@ -263,3 +263,39 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct3
 * Communicating with Ms. Hite about how to make our final design
 * Making a comfortable mold for Ramisi
 * Experimenting with the idea of a Anantawan-inspired design
+
+
+# Week of November 14th:
+### What did you work on?
+* We followed up to Dr. Hite's response by sending her a PDF of what we have done so far and asking for her thoughts on different design options
+* We did molding with Ramisi on Friday using a cup as a container for the boiling water, as opposed to a flat cookie tray.
+
+### The main endeavors of this week were as follows:
+* Making the PDF for Dr. Hite
+* Setting up times to meet with Ramisi 
+* Doing molding with the cup instead of the cookie tray
+
+### What decisions were made?
+* We've decided to change our current design. Having the hand orientation be veritcal as opposed to horizontal (the natural way) is uncomftorable and ineffective. We should have thought more about this when making our design
+* To use a cup instead of cookie tray. The cup makes it much easier to cover all surface area of the mold
+* To look into using a 3D printed / thermoplastic hybrid design
+
+### What new resources did you find?
+* The cup for pouring the boiling water into
+
+### What new issues were discovered?
+* That our current design idea is not adequate and has to be changed
+* We have been using the same thermoplastic sheet for our molding, but with many consecutive attempts, the plastic becomes stuck to itself and hard to make back into a flat sheet for redesign
+
+### What went well?
+* We got the cup for molding and emailed Dr. Hite
+
+### What was difficult?
+* It's quite frustrating the pace the project is going. Obviously, our client directly benefits from us making a succesful design, so it feels like a diservice to not be doing the best we can. 
+* We may try Elisabeth's design (horizontal design), Anantawan's design (the spatula), or a thermoplastic-3D-printed hybrid. We don't know which is best, and it's hard not having clarity.
+
+### What is your plan for next week?
+* Rethink, redesign, remold
+* Hopefully communicate with Dr. Hite
+* Develop a new design that works well
+
