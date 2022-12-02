@@ -209,6 +209,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandM
 ### What is your plan for next week?
 * Create a much better model for Ramisi, with much more definition then the last.
 
+
 # Week of October 31st:
  
 ### What did you work on? 
@@ -233,6 +234,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct3
 
 
 # Week of November 7th:
+
 ### What did you work on?
 * We reached out to Dr. Stacy Hite from UVA via email, asking if we could talk and have some of her advice on how to have a clean finish
 * We met with Ramisi and Elle to talk about the current mold and how to improve it. It's currently too tight
@@ -299,3 +301,45 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct3
 * Hopefully communicate with Dr. Hite
 * Develop a new design that works well
 
+
+# Week of November 28th:
+
+### What did you work on?
+* We were very productive this week, which was a good contrast to the difficulty we had with having to redesign from last week. It also helped that we had thanksgiving break as a week off. 
+* We worked on remodeling Ramisi's design / sketching possible ideas
+* We developed a model from cheap materials of what we want the design to look like, and it was functional
+* We also asked Mr. Miller to reassure Alex that we haven't forgotten about them
+
+### The main endeavors of this week were as follows:
+* Sketching out ideas
+* Designing a prototype of the idea we liked and was functional
+
+### What decisions were made?
+* We scratched our previous design and went back to the drawing board
+* We did brainstorming on both a Google Doc and piece of paper
+* We debated reaching out to Dr. Hite in case she was simply busy, but because she has not responded, we will likely sent a second follow up over the weekend or next week
+* We also updated Elisabeth on the project and our current model to see her thoughts (she hasn't responded yet, though)
+
+### What new resources did you find?
+* PLM Flex 3D printing
+* Basic constructing supplies for rudimentary prototyping (tape, adhesive wrap, styrofoam (with a laser cutter), and clay
+* Nuts and bolts as fastening mechanisms. Also, a 3D-printed clamp design
+
+### What new issues were discovered?
+* The tea kettle we were heating up our water with broke after Luke dropped it while taking it home after break and his dad threw it out because the top was cracked. In turn, we have to look for a new tea kettle, and because we didn't have one this week, we couldn't use thermoplastics and so used basic supplies
+* Not neccessarily new, but the delay in communication between us and Dr. Hite remains a challenge
+
+### What went well?
+* A lot went well -- we used all the time we had, didn't wait around, and succesfully prototyped
+* Luke was out of class Friday, but Angus still was productive and finished the working prototype
+* We effectively followed a design process with finding out what we had to change, how to do it, and then doing it.
+
+### What was difficult?
+* We didn't have Dr. Hite's input on our work because she hasn't responded the past week or so
+* We didn't have thermoplastics
+* We didn't have a tea kettle
+
+### What is your plan for next week?
+* To create our model out of refined materials (thermoplastics, wood if neccessar, adhesive wrap / velcro, etc.)
+* Work with Ramisi to experiment with the new design
+* Hopefully get in touch with Dr. Hite
