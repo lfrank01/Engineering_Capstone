@@ -343,3 +343,8 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct3
 * To create our model out of refined materials (thermoplastics, wood if neccessar, adhesive wrap / velcro, etc.)
 * Work with Ramisi to experiment with the new design
 * Hopefully get in touch with Dr. Hite
+
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design1.jpg"  data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design1.jpg" width="300" height="500" /> <img
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design2.jpg" data-cononical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design2.jpg" width="300" height="500" /> <img
