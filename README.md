@@ -352,6 +352,6 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Desi
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design3.jpg" width="300" height="500" /> 
 
 ### Below are some pictures of our design blueprint and an clamp design from an inspirational [idea](https://patient-innovation.com/post/2085)
-<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.png"  data-canonical-
-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.png" width="300" height="500" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model2.png" data-cononical-
-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model2.png" width="300" height="500" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.PNG"  data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.PNG" width="300" height="500" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model2.PNG" data-cononical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model2.PNG" width="300" height="500" />
