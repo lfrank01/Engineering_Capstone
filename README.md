@@ -349,4 +349,4 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Desi
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design2.jpg" data-cononical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design2.jpg" width="300" height="500" /><img
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design3.jpg" data-canonical-
-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design3.jpg" width="300" height="500" 
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design3.jpg" width="300" height="500" ?><img
