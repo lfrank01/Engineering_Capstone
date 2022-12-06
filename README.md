@@ -70,7 +70,7 @@ This README is the week-by-week documentation of our senior-year capstone projec
 * Testing the properties of the thermoplastics graciously given to us by Elisabeth Scharf
 * Visiting Ramisi's previous bow adapter design and attempting to reverse engineer and identify design flaws
 
-<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" width="300" height="500" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" width="300" height="500" /><img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" width="300" height="500" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Angus_Heat_Gun.jpg" width="300" height="500" /> 
 
 https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflection.jpg
 ### What decisions were made?
@@ -129,7 +129,6 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Adapter_Notes_1.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Adapter_Notes_1.jpg" width="300" height="500" /><img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Adapter_Note_2.jpg" data-canonical-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Adapter_Note_2.jpg" width="300" height="500" />
 
-
 ### What was difficult?
 * The heat plate took a long time to reach 60 degrees F (which we discovered was not enough energy), meaning we had less time to mold and had to draw designs and brainstorm while waiting around
 * Luke was away at Boston for Friday, and on Thursday, Angus wasn't there because it was a weirdly-scheduled PSAT day. Thus, we had less time to work
@@ -178,7 +177,7 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 * Communicating with Alex about our plans for the prosthetic hand. Working on one project at a time will be the best way to have succesful results, but this means that Alex's project will come later in the year. We want to communicate this to her to be clear of our schedule and constraints
 
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandMold1.jpg" data-canonical-
-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandMold1.jpg" width="300" height="500" /><img 
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandMold1.jpg" width="300" height="500" /> 
 
 
 # Week of October 24th:
@@ -229,6 +228,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandM
 ### What is your plan for next week?
 * Do more molding with Ramisi
 * Contact UVA Hand Specialist Ms. Hite for advice on how to improve our molding
+
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct31Mold.jpg" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct31Mold.jpg" width="300" height="400" />
 
@@ -344,9 +344,14 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct3
 * Work with Ramisi to experiment with the new design
 * Hopefully get in touch with Dr. Hite
 
+week14model1
+### Below are some pictures of our current design prototype (using basic materials)
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design1.jpg"  data-canonical-
-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design1.jpg" width="300" height="500" /><img
-<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design2.jpg" data-cononical-
-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design2.jpg" width="300" height="500" /><img
-<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design3.jpg" data-canonical-
-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design3.jpg" width="300" height="500" /><img
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design1.jpg" width="300" height="500" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design2.jpg" data-cononical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design2.jpg" width="300" height="500" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design3.jpg" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design3.jpg" width="300" height="500" /> 
+
+### Below are some pictures of our design blueprint and an clamp design from an inspirational [idea](https://patient-innovation.com/post/2085)
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.png"  data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.png" width="300" height="500" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model2.png" data-cononical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model2.png" width="300" height="500" />
