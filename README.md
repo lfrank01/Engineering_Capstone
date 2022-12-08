@@ -344,7 +344,6 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct3
 * Work with Ramisi to experiment with the new design
 * Hopefully, get in touch with Dr. Hite
 
-week14model1
 ### Below are some pictures of our current design prototype (using basic materials)
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design1.jpg"  data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design1.jpg" width="150" height="250" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Design2.jpg" data-cononical-
@@ -356,3 +355,49 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Desi
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.PNG" width="250" height="250" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model2.PNG" data-cononical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model2.PNG" width="250" height="250" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14PaperDesignFixed.jpg" data-cononical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14PaperDesignFixed.jpg" width="250" height="250" />
+
+
+# Week of December 5th - Experimenting with the New Design:
+
+### What did you work on?
+* Working on the new model with basic materials 
+* Revising the model after testing it with Ramisi
+* Contacting Form5 for a meeting time
+
+### The main endeavors of this week were as follows:
+* We contacted Mr. Westbrook of [Form5](https://www.form5prostheticsinc.org/) for a meeting time (scheduled for **Dec 12, 11:00 AM Eastern!**)
+* We polished up the GitHub for it to be informative to Form5 
+* We met with Ramisi on Thursday to test our prototype
+
+### What decisions were made?
+* To meet with Form5. We're really grateful for Mr. Miller for connecting us to them
+* To buy a new tea kettle on [Amazon](https://www.amazon.com/dp/B09H3LWKYQ/ref=cm_sw_r_api_i_SK4FYTD02EZ2P3VSYN1T_0?_encoding=UTF8&pldnSite=1&scrlybrkr=af1ed8a6&th=1)
+* To rework our design after meeting with Ramisi (we like the idea but it needs adjustments)
+
+### What new resources did you find?
+* Form5 as a source of expertise that we can learn from
+
+### What new issues were discovered?
+* We didn't have a tea kettle and so had to buy one. However, the monthly order CHS allows for project purchases had passsed (an inefficient system), so we had to buy it using our own funds
+* Our prototype was too tight on the wrist for Ramisi and to loose on the thumb anchor, but we expected that we'd have to make changes
+
+### What went well?
+* We contacted Form5 and documented our project with pictures well
+* We organized with Ramisi well, adjusting when she wasn't available / had another committment
+* We prepared our prototype in good time and were ready/productive in starting changes. 
+
+### What was difficult?
+* Not having a tea kettle
+* Only being able to meet with Ramisi on Thursday. We had to make use of documenting and messaging Form5 in the meantime
+
+### What is your plan for next week?
+* Discuss solutions with Form5
+* Have a reworked prototype that fits Ramisi comfortably
+* Have the tea kettle and use it for better materials if it makes a difference
+
+### Below are pictures from modeling with Ramisi - the wrist and thumb anchors need adjusting
+
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/NewDesign1.jpg"  data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.PNG" width="250" height="350" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/NewDesign2.jpg"  data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.PNG" width="250" height="350" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/NewDesign3.jpg"  data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.PNG" width="250" height="350" /> 
