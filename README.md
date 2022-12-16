@@ -401,3 +401,28 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Pape
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.PNG" width="250" height="350" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/NewDesign2.jpg"  data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.PNG" width="250" height="350" /> <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/NewDesign3.jpg"  data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Model1.PNG" width="250" height="350" /> 
+
+# Week of December 12th
+
+### What did you work on?
+* We were able to meet with Aaron Westbrook from Form5 and got great feed back from him about our new design. 
+* We started the procces of making a 3d bow holder. 
+* New tea kettle came in, extremley grateful for Lukes parents buying that for us!
+
+### What Decisons were made? 
+* In the new year we will hop right back on focus to finish the bow adapter as soon as possible so our client can enjoy the beautiful art of the violon. 
+* We will continue to work with Aaron and Form5 to enhance our design and they will give amazing feed back! 
+
+### What new resources did you find?
+* Thanks to Mr.Miller we have made a great connection with Form5 and will continue to have their help and input. 
+
+### What new issues were discovered? 
+* We are running behind and taking a little longer than we would like to finish this project.
+* We won't be able to work on the adapter for two weeks due to winter break, which sucks. 
+
+### What went well
+* We had a great zoom meeting with Aaron from Form5, he gave us great feedback.
+* Form5 worked on a project like this a couple years ago and said they'll try and find some pictures from that design. 
+
+### What is our plan for the new year(2023)?
+* We want to wrap up the final design soon after we come back from winter break.
