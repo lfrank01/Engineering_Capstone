@@ -420,9 +420,33 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Mode
 * We are running behind and taking a little longer than we would like to finish this project.
 * We won't be able to work on the adapter for two weeks due to winter break, which sucks. 
 
-### What went well
+### What went well?
 * We had a great zoom meeting with Aaron from Form5, he gave us great feedback.
 * Form5 worked on a project like this a couple years ago and said they'll try and find some pictures from that design. 
 
 ### What is our plan for the new year(2023)?
 * We want to wrap up the final design soon after we come back from winter break.
+
+# Week of January 3rd
+
+### What did you work on?
+* Creating a model that takes a lot from Form5's design. 
+* Working in Onshape to create a box to hold the violin bow. 
+
+### What Decisons were made?
+* We will be combining previous designs of ours and Form5's design for the final model. 
+
+### What new resources did you find?
+* We were able to find a video of Form5's product in use, which was great to see so we could find new ideas. 
+
+### What issues were discovered?
+* Form5 at the momment are moving so they won't be able to send us the pictures from the model till a later date. 
+
+### What went well?
+* We've been making a ton of prototypes and we feel extremly confident in the direction were heading for the final model. 
+
+### What is our plan for next week? 
+* We will continue to work on the model and make little tweeks as we go. 
+
+### These are images of Form5's design. 
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model.PNG"
