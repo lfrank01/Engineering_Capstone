@@ -449,5 +449,5 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Mode
 * We will continue to work on the model and make little tweeks as we go. 
 
 ### These are images of Form5's design. 
-<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model.PNG" data-canonical-
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model.jpg" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model.PNG" width="250" height="350" /> <img
