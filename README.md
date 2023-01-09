@@ -450,4 +450,4 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Mode
 
 ### These are images of Form5's design. 
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model.PNG" data-canonical-
-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model.PNG" width="250" height="350" /> <
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model.PNG" width="250" height="350" /> 
