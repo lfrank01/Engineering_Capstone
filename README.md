@@ -474,3 +474,5 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model
 ### What is our plan for next week?
 * We will be working on a presentaion to present to our peers as were half way through the school year. 
 * Continue enhancing our models. 
+
+# New Design! 
