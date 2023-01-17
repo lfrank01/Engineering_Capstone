@@ -476,3 +476,11 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model
 * Continue enhancing our models. 
 
 # New Design! 
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model1.jpg" data-canonical- 
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model1.jpg" width="250" height="350" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model2.jpg" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model2.jpg" width="250" height="350" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model3.jpg" data-canonical- 
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model3.jpg" width="250" height="350" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model4.jpg" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model4.jpg" width="250" height="350" />
