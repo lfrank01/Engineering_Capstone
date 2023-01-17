@@ -452,4 +452,25 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Mode
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model.PNG" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model.PNG" width="250" height="350" /> 
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model2.PNG" data-canonical-
-src="
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model2.PNG" width="250" height="350" />
+
+# Week of January 9th
+
+### What did you work on this week?
+* This week we spent all of our time prototyping, made lots of littile tweeks and adjusments. 
+* Met with Ramisi to see how she feels about the design. 
+
+### What decisons were made? 
+* We have decided to put the bow below the hand instead of on top.
+* We will email Aaron next week on Monday to touch base and see if we can get the documents from him. 
+
+### What issues were discovered? 
+* Aaron is extremly busy sohe has not been able to send the documents from his project. 
+
+### What went well?
+* We really like our new design and think thats a great direction to headed in.
+* Ramisi really liked what we were doing and felt comfortable on her. 
+
+### What is our plan for next week?
+* We will be working on a presentaion to present to our peers as were half way through the school year. 
+* Continue enhancing our models. 
