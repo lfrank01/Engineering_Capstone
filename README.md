@@ -513,6 +513,6 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Mode
 
 ## Form5 Design 
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign.JPG" data-canonical-
-src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign.JPG" width="350" height="250" />
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign.JPG" width="250" height="350" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign2.JPG" data-canonical- 
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign2.JPG" width="350" height="250" />
