@@ -484,3 +484,35 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Mode
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model3.jpg" width="250" height="350" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model4.jpg" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model4.jpg" width="250" height="350" />
+
+# Week of January 30th
+
+### What did you work on?
+* We were able to meet with Mr.Westbrook from form5.
+* Mr.Westbrook sent us images of the cello adapter but there is a missing peice of the design.
+* Made a bow in onshape so we can start our design.
+
+### What decisions were made?
+* We will be doing a design like what Form5 did.(for now) 
+
+### What new resources did you find?
+* Form5 was already a great connection and got even better when they were able to send us photos of there cello design. 
+
+### What new issues were discovered?
+* Form5 sent us some pictures of there cello design but we weren't able to get the final project, we've emailed them to ask for the complete design but this will take a while. 
+
+### What went well?
+* We were able to get pictures from Form5 of there cello bow adapter. 
+* We met with Ramisi and she really liked the direction we're headed in with the design. 
+
+### What was difficult?
+* We are having trouble being productive and having mind blocks to what we want our design to look like. 
+
+### What is your plan for next week?
+* Get back on track and be extremely productive and continue our designing proces.
+
+## Form5 Design 
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign.JPG" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign.JPG" width="350" height="250" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign2.JPG" data-canonical- 
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign2.JPG" width="350" height="250" />
