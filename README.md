@@ -516,3 +516,27 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Mode
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign.JPG" width="250" height="350" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign2.JPG" data-canonical- 
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign2.JPG" width="350" height="250" />
+
+# Week of February 6th:
+
+### What did you work on?
+* This week we spent a lot of time in Onshape designing our newest model of our bow adapter. 
+
+### What decisions were made?
+* We've
+
+### What new resources did you find?
+
+### What new issues were discovered?
+
+### What went well?
+
+### What was difficult?
+
+### What is your plan for next week?
+
+### Onshape Design 
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapDesign.PNG" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapDesign.PNG" width="350" height="250" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDesign2.PNG" data-canonical- 
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDesign2.PNG" width="350" height="250" />
