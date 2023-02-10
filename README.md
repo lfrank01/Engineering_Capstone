@@ -535,7 +535,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Cello
 
 ### What is your plan for next week?
 
-### Onshape Design 
+# Onshape Design 
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapDesign.PNG" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapDesign.PNG" width="350" height="250" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDesign2.PNG" data-canonical- 
