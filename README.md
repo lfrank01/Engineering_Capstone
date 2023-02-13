@@ -523,17 +523,17 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Cello
 * This week we spent a lot of time in Onshape designing our newest model of our bow adapter. 
 
 ### What decisions were made?
-* We've
-
-### What new resources did you find?
-
-### What new issues were discovered?
+* We've decided to move forward on our designing in onshape.
 
 ### What went well?
+* We made great progress in onshape.
+* Ramisi likes the direction we're going in for the design. 
 
 ### What was difficult?
+* Both of us had things going on this week, so we only had two days of working together. 
 
 ### What is your plan for next week?
+* Continue working on our design in onshape. 
 
 # Onshape Design 
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapDesign.PNG" data-canonical-
