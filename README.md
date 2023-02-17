@@ -540,3 +540,26 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Cello
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapDesign.PNG" width="350" height="250" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDesign2.PNG" data-canonical- 
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDesign2.PNG" width="350" height="250" />
+
+# Week of Febuary 13th:
+
+### What did you work on? 
+* We continued our progress in onshape with the design. 
+
+### What new issues were discovered?
+* We had slight hicup, we had the bow facing the wrong direction so we had to pretty much delete everything and startover. 
+
+### What went well?
+* We made good progress with our design. 
+
+### What was difficult?
+* We're still kind of stuck on how we're going to connect this part of the design to the other part. 
+
+### What is your plan for next week?
+* Hopefully we'll have the bow holder done and figure out how we want to connect it to the second part. 
+
+# Images of updated bow holder
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeWeekOfFebruary13th.PNG" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeWeekOfFebruary13th.PNG" width="350" height="250" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeWeekOfFebruary13th2.PNG" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeWeekOfFebruary13th2.PNG" width="350" height="250" />
