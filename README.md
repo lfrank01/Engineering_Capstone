@@ -484,6 +484,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Mode
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model3.jpg" width="250" height="350" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model4.jpg" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Model4.jpg" width="250" height="350" />
+#
 
 # Week of January 30th
 
@@ -516,6 +517,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Mode
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign.JPG" width="250" height="350" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign2.JPG" data-canonical- 
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5CelloDesign2.JPG" width="350" height="250" />
+#
 
 # Week of February 6th:
 
@@ -540,6 +542,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Cello
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapDesign.PNG" width="350" height="250" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDesign2.PNG" data-canonical- 
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDesign2.PNG" width="350" height="250" />
+#
 
 # Week of Febuary 13th:
 
