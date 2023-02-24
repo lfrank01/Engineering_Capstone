@@ -544,6 +544,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapDesi
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDesign2.PNG" width="350" height="250" />
 #
 
+
 # Week of Febuary 13th:
 
 ### What did you work on? 
@@ -561,8 +562,38 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDes
 ### What is your plan for next week?
 * Hopefully we'll have the bow holder done and figure out how we want to connect it to the second part. 
 
-# Images of updated bow holder
+### Images of updated bow holder
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeWeekOfFebruary13th.PNG" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeWeekOfFebruary13th.PNG" width="350" height="250" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeWeekOfFebruary13th2.PNG" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeWeekOfFebruary13th2.PNG" width="350" height="250" />
+
+
+# Week of Febuary 20th:
+
+### What did you work on? 
+* The week was spent working out how to create the joint to allow for 3D motion around Ramisi's wrist
+* We brainstormed different ideas besides a ball and socket, which would be harder to get right as it requires a precise friction fit
+* We came up with the idea of using a CV joint or universal joint, and we chose to proceed with a universal joint
+
+### What new issues were discovered?
+* Our previous design was quite bulky and had sketches tied to each other that made modification difficult, so we had to redo the base of the design
+
+### What went well?
+* We modeled a universal joint and succesfully brainstormed/researched.
+
+### What was difficult?
+* The time element of having to restart the design and create the base again. There was not much time to concentrate and focus on getting the work done.
+
+### What is your plan for next week?
+* To have a working universal joint implemented into the prosthesis that is functional for Ramisi
+* Remodel the parts of the prosthesis that hold the violin and strap around the forearm for a secure fit
+
+### Image of the modeled universal joint
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Universal Joint Model.png" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Universal Joint Model.png" />
+
+### Inspiration we found online:
+
+* [Inspiration 1](https://www.pinterest.com/pin/630504016569560362/)
+* [Inspiration 2](https://www.pinterest.com/pin/841821355365253292/)
