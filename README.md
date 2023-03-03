@@ -3,7 +3,8 @@
 This README is the week-by-week documentation of our senior-year capstone project. Our goal is to create a violin bow adapter and prosthetic hand for two customers within the CHS community. 
  
 # Week of September 17th:
-### What did you work on?
+
+### What did we work on?
 * This week, we truly began the process of our project. We finalized our capstone plan, to build a violin bow adapter and prosthetic hand, and had meetings with our two customers, Ramisi and Alex, to make preparations. Following our meetings, we presented to the rest of the capstone class. 
 
 ### The main endeavors of this week were as follows:
@@ -37,7 +38,7 @@ This README is the week-by-week documentation of our senior-year capstone projec
  
 # Week of September 26th:
 
-### What did you work on?
+### What did we work on?
 * Communicating with Elisabeth Scharf to obtain the thermoplastics she used for her designs
 * Making a Github for our projects
 * Understanding the mechanics of violin-playing 
@@ -65,7 +66,7 @@ This README is the week-by-week documentation of our senior-year capstone projec
 
 # Week of October 3rd:
 
-### What did you work on?
+### What did we work on?
 * Practicing the mechanics of bow movement with the violin
 * Testing the properties of the thermoplastics graciously given to us by Elisabeth Scharf
 * Visiting Ramisi's previous bow adapter design and attempting to reverse engineer and identify design flaws
@@ -102,7 +103,7 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 
 # Week of October 10th:
 
-### What did you work on?
+### What did we work on?
 * Exploring alternatives for heating up the thermoplastics. The previous week, we used a heat gun. We realized that using water with a cookie tray and heat plate would diffuse heat more evenly across the thermoplastic
 * Understanding how the bow mold was attached to the hand attachment
 * Gaining experience with thermoplastic molding through trial and error. Also, learning how to handle the hot thermoplastics safely
@@ -141,7 +142,7 @@ https://github.com/lfrank01/Engineering_Capstone/blob/main/media/DesignReflectio
 
 # Week of October 17th:
 
-### What did you work on?
+### What did we work on?
 * We continued improving our thermoplastic molding abilities 
 * We debated methods of attaching the prosthesis. Our ideas were as follows:
  * Bending the thermoplastic around the hand (closing the mold) for more of a friction fit
@@ -182,7 +183,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandM
 
 # Week of October 24th:
 
-### What did you work on?
+### What did we work on?
 * This week, we were able to have Elisabeth Scharf come in and show us the best ways to mold thermoplastics. 
 * We created a mold with a friend's hand. 
 * We created an extremely rough mold for Ramisi.
@@ -211,7 +212,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/FirstHandM
 
 # Week of October 31st:
  
-### What did you work on? 
+### What did we work on? 
 * This week, we worked on molding for the violin bow adapter.
 
 ### What decisions were made?
@@ -235,7 +236,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct3
 
 # Week of November 7th:
 
-### What did you work on?
+### What did we work on?
 * We reached out to Dr. Stacy Hite from UVA via email, asking if we could talk and have some of her advice on how to have a clean finish
 * We met with Ramisi and Elle to discuss the current mold and how to improve it. It's currently too tight
 
@@ -268,7 +269,8 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct3
 
 
 # Week of November 14th:
-### What did you work on?
+
+### What did we work on?
 * We followed up on Dr. Hite's response by sending her a PDF of what we have done so far and asking for her thoughts on different design options
 * We did molding with Ramisi on Friday using a cup as a container for the boiling water, as opposed to a flat cookie tray.
 
@@ -304,7 +306,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/WeekofOct3
 
 # Week of November 28th:
 
-### What did you work on?
+### What did we work on?
 * We were very productive this week, which was a good contrast to the difficulty we had with redesigning last week. It also helped that we had thanksgiving break as a week off. 
 * We worked on remodeling Ramisi's design / sketching possible ideas
 * We developed a model from cheap materials of what we wanted the design to look like, and it was functional
@@ -359,7 +361,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Pape
 
 # Week of December 5th - Experimenting with the New Design:
 
-### What did you work on?
+### What did we work on?
 * Working on the new model with basic materials 
 * Revising the model after testing it with Ramisi
 * Contacting Form5 for a meeting time
@@ -404,7 +406,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Mode
 
 # Week of December 12th
 
-### What did you work on?
+### What did we work on?
 * We were able to meet with Aaron Westbrook from Form5 and got great feed back from him about our new design. 
 * We started the procces of making a 3d bow holder. 
 * New tea kettle came in, extremley grateful for Lukes parents buying that for us!
@@ -429,7 +431,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week14Mode
 
 # Week of January 3rd
 
-### What did you work on?
+### What did we work on?
 * Creating a model that takes a lot from Form5's design. 
 * Working in Onshape to create a box to hold the violin bow. 
 
@@ -456,7 +458,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Model
 
 # Week of January 9th
 
-### What did you work on this week?
+### What did we work on this week?
 * This week we spent all of our time prototyping, made lots of littile tweeks and adjusments. 
 * Met with Ramisi to see how she feels about the design. 
 
@@ -488,7 +490,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week18Mode
 
 # Week of January 30th
 
-### What did you work on?
+### What did we work on?
 * We were able to meet with Mr.Westbrook from form5.
 * Mr.Westbrook sent us images of the cello adapter but there is a missing peice of the design.
 * Made a bow in onshape so we can start our design.
@@ -521,7 +523,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Form5Cello
 
 # Week of February 6th:
 
-### What did you work on?
+### What did we work on?
 * This week we spent a lot of time in Onshape designing our newest model of our bow adapter. 
 
 ### What decisions were made?
@@ -547,7 +549,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeDes
 
 # Week of Febuary 13th:
 
-### What did you work on? 
+### What did we work on? 
 * We continued our progress in onshape with the design. 
 
 ### What new issues were discovered?
@@ -571,7 +573,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/OnshapeWee
 
 # Week of Febuary 20th:
 
-### What did you work on? 
+### What did we work on? 
 * The week was spent working out how to create the joint to allow for 3D motion around Ramisi's wrist
 * We brainstormed different ideas besides a ball and socket, which would be harder to get right as it requires a precise friction fit
 * We came up with the idea of using a CV joint or universal joint, and we chose to proceed with a universal joint
@@ -597,3 +599,24 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Universal 
 
 * [Inspiration 1](https://www.pinterest.com/pin/630504016569560362/)
 * [Inspiration 2](https://www.pinterest.com/pin/841821355365253292/)
+
+# Week of Febuary 27th:
+
+### What did we work on?
+* We have been working in onshape for a couple of weeks and we are deciding to slightly pivot our design and not have a universal joint. 
+
+### What went well? 
+* We decided to not use the universal joint, which will make it easier for us and will most likely be more comfortable for Ramisi. 
+
+### What was difficult? 
+* There was testing in our workspace on our block day which made us unable to work on the desktops and we had to use our chromebooks which is very difficult to do when using Onshape.
+
+### What is our plan for next week? 
+* We will continue working on our Onshape design.
+* We hope to print a model and have Ramisi try it out. 
+
+# New Design without ball joint:
+img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week24.PNG" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week24.PNG" />
+img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/2Week24..PNG" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/2Week24..PNG" />
