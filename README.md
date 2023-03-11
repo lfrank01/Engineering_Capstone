@@ -616,7 +616,7 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Universal 
 * We hope to print a model and have Ramisi try it out. 
 
 # New Design without ball joint:
-img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week24.PNG" data-canonical-
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week24.PNG" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week24.PNG" />
-img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/2Week24..PNG" data-canonical-
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/2Week24..PNG" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/2Week24..PNG" />
