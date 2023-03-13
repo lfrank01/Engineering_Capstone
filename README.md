@@ -620,3 +620,14 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Universal 
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Week24.PNG" />
 <img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/2Week24..PNG" data-canonical-
 src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/2Week24..PNG" />
+
+# Week of March 6th: 
+
+### What did we work on?
+* We printed two bow holders so we can tweak the design slightly and make it the most logical design. 
+* We met with Ramisi and she's really excited to see the design and hold instead of just looking at on the computer. 
+
+### What went well?
+* We were able to 3D print the design which made us feel pretty accomplished, and showed us we're not far from the final product. 
+
+### What was difficult? 
