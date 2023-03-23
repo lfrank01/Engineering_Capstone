@@ -630,4 +630,17 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/2Week24..P
 ### What went well?
 * We were able to 3D print the design which made us feel pretty accomplished, and showed us we're not far from the final product. 
 
+# Week of March 20th: 
+
+### What did we work on?
+* We continued enhancing our design in Onshape. 
+* We printed the second part of the bow adapter. 
+
+### What went well? 
+* We were able to print our first design of the connector to the hand. 
+
 ### What was difficult? 
+* We decided to make the wrist holder flatter last minute on our design.
+
+### What is our plan next week? 
+* Next week is the a four day week and both of us are heading out of the country for spring break, so if we're going to be honest we most likely will re-print the wrist connector or hopefully print the whole design and construct it. 
