@@ -644,3 +644,17 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/2Week24..P
 
 ### What is our plan next week? 
 * Next week is the a four day week and both of us are heading out of the country for spring break, so if we're going to be honest we most likely will re-print the wrist connector or hopefully print the whole design and construct it. 
+
+### Testing the full prosthesis prototype with Ramisi
+
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Assembled%20Prosthesis%20Wrist%20Space.jpg" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Assembled%20Prosthesis%20Wrist%20Space.jpg" width="300" height="250" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Assembled%20Prosthesis%20Side%20View.jpg" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Assembled%20Prosthesis%20Side%20View.jpg" width="300" height="250" />
+<img src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Assembled%20Prosthesis%201%20Front.jpg" data-canonical-
+src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Assembled%20Prosthesis%201%20Front.jpg" width="300" height="250" />
+
+**Notes on the new design:**
+* The wrist while playing the violin has a downward bend. Our design needs to match this by not being linear but rather have a curved extrusion
+* The current wrist holder is too big and shouldn't be symetrical because it's not what the contours of the wrist are like
+* The violin bow holder needs to be much tighter
