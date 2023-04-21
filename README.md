@@ -658,3 +658,25 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Assembled%
 * The wrist while playing the violin has a downward bend. Our design needs to match this by not being linear but rather have a curved extrusion
 * The current wrist holder is too big and shouldn't be symetrical because it's not what the contours of the wrist are like
 * The violin bow holder needs to be much tighter
+
+# Week of March 26th:
+### What did we work on?
+* We continued working on the mold and were able to get a usable mold but far from the final. 
+
+### What went well? 
+* For the first time this year it feels like we've done well, we have a working mold that dosen't hurt or slip off of her hand. 
+
+### What was difficult?
+* We only had three days to work and those three days were not very productive since we were thinking about about spring break and leaving the country. 
+
+### What is plan for after spring break?
+* Continue working on our final mold and have Ramasi able to play on her trip in Florida. 
+
+# Week of April 10th: 
+
+### What went well?
+* We were able to get a working product for Ramasi and she is really enjoying it!
+
+### What did we work on?
+* We finished up a rough final product of the bow adapter.  
+
