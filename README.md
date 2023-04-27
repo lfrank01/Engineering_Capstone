@@ -659,12 +659,14 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Assembled%
 * The current wrist holder is too big and shouldn't be symetrical because it's not what the contours of the wrist are like
 * The violin bow holder needs to be much tighter
 
+
 # Week of March 26th:
+
 ### What did we work on?
 * We continued working on the mold and were able to get a usable mold but far from the final. 
 
 ### What went well? 
-* For the first time this year it feels like we've done well, we have a working mold that dosen't hurt or slip off of her hand. 
+* For the first time this year it feels like we've got a working product. We have a working mold that dosen't hurt or slip off of her hand. 
 
 ### What was difficult?
 * We only had three days to work and those three days were not very productive since we were thinking about about spring break and leaving the country. 
@@ -672,11 +674,65 @@ src="https://github.com/lfrank01/Engineering_Capstone/blob/main/media/Assembled%
 ### What is plan for after spring break?
 * Continue working on our final mold and have Ramasi able to play on her trip in Florida. 
 
+
 # Week of April 10th: 
 
-### What went well?
-* We were able to get a working product for Ramasi and she is really enjoying it!
-
 ### What did we work on?
-* We finished up a rough final product of the bow adapter.  
+* We tested the bow with Ramisi and made it more comfortable. She was able to play it, and we got feedback from Elle that it worked well, just needed to be more  secure. 
 
+* We changed the nuts to be smaller so they wouldn't protrude from the prosthesis.
+
+### What new issues were discovered?
+* Not a new issue, but we couldn't secure the bow well without using tape for the design, so we needed to add onto the prosthesis.
+
+### What went well?
+* We were relatively productive and managed to make the prosthesis more playable for Ramisi.
+
+### What was difficult?
+* We weren't able to adjust the prosthesis right away, so having tape secure the bow looked unproffesioanl.
+
+### What is your plan for next week?
+* Adjusting the prosthesis.
+* Making the prosthesis look nicer.
+
+
+# Week of April 17th:
+
+### What did we work on? 
+* We brainstormed how we could improve the final design.
+* We removed the violin bow strap holes becaue they weren't doing much.
+* We added a clamp system to replace the straps.
+
+### What new issues were discovered?
+* We thought about how to make the design consistent in case it needs to be removed. We thought making a molding device would be helpful.
+
+### What went well?
+* We made the clamp design and thought of using a slot so we wouldn't have to exactly right.
+
+### What was difficult?
+* Ramisi and Elle were in Florida for an orchestra trip, and we didn't have access to the prosthesis.
+
+### What is your plan for next week?
+* Working on the final design. 
+* Getting the clmap ready.
+
+
+# Week of April 24th:
+
+### What did we work on? 
+* We followed through on our idea for using a slot design. Luke designed it and dimensioned it to fit.
+* We prepared to print out the final prosthesis.
+
+### What new issues were discovered?
+* Not a new issue, but it is hard to get work done 2nd semester senior year right before AP tests.
+
+### What went well?
+* We updated documentation and caught some documentation we had missed for previous weaks.
+
+### What was difficult?
+* We didn't have much motiviation to get work done. 
+* We didn't have a thought-through plan to stay on task.
+
+### What is your plan for next week?
+* Print out the bow clamp.
+* Get ready for the final molding using black 3D material.
